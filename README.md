@@ -1,1 +1,4 @@
 # Robotics-and-Control-Projects-X5V3W2
+
+Description:
+This repository contains a collection of robotics and control projects. The projects are divided into three categories: robotics, control systems and robotics and control. The robotics category contains projects related to robotics such as object recognition, human-robot interaction and robotic task planning. The control systems category contains projects related to control systems such as PID control, robust control and transfer learning. The robotics and control category contains projects that combine robotics and control systems such as visual servoing, human-robot interaction and robotic task planning with control systems.
